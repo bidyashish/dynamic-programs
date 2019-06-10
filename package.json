@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-programming",
+  "version": "1.0.0",
+  "description": "Collection of Dynamic Programming, Algorithms and Data structure mostly in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "lcs": "node lcs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidyashish/dynamic-programs.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Data",
+    "algorithms"
+  ],
+  "author": "Bidyashish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bidyashish/dynamic-programs/issues"
+  },
+  "homepage": "https://github.com/bidyashish/dynamic-programs#readme"
+}
